@@ -1,6 +1,6 @@
 # GeneratePattern
 Geterates Mie scattering patterns :-)
-32-bit Matlab version originally coded by Mikhail Katliar
+32-bit Matlab version originally coded by Mikhail Katliar @ Institute of Physics, Polish Academy of Sciences
 
 For Mie theory see e.g:
 
