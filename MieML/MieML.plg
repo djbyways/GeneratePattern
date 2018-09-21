@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MieML - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPCB.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp"Release/MieML.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\cepstr\My Documents\Visual Studio Projects\Scattering\MieML\Impl.cpp"
+"C:\Documents and Settings\cepstr\My Documents\Visual Studio Projects\Scattering\MieML\MieML.c"
+"C:\Documents and Settings\cepstr\My Documents\Visual Studio Projects\Scattering\MieML\MieMLtm.c"
+"C:\Documents and Settings\cepstr\My Documents\Visual Studio Projects\Scattering\MieML\MLTypes.cpp"
+]
+Creating command line "xicl6.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPCB.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPCC.tmp" with contents
+[
+ml32i2m.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"..\Release/MieML.pdb" /machine:I386 /out:"..\Release/MieML.exe" 
+".\Release\Impl.obj"
+".\Release\MieML.obj"
+".\Release\MieMLtm.obj"
+".\Release\MLTypes.obj"
+"\Documents and Settings\cepstr\My Documents\Visual Studio Projects\Scattering\Release\MieDll.lib"
+]
+Creating command line "xilink6.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPCC.tmp"
+<h3>Output Window</h3>
+Compiling...
+Impl.cpp
+MieML.c
+MieMLtm.c
+MLTypes.cpp
+Linking...
+xilink6: executing 'C:\PROGRA~1\MICROS~3\VC98\Bin\link.exe'
+
+
+
+<h3>Results</h3>
+MieML.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

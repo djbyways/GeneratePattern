@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[MieML.dsp]
+SCC_Aux_Path = "C:\Documents and Settings\cepstr\VSS"
+SCC_Project_Name = "$/Scattering/MieML", WFAAAAAA
+
+[MieML.vcproj]
+SCC_Aux_Path = "C:\Documents and Settings\cepstr.ON22\VSS"
+SCC_Project_Name = "$/Scattering/MieML", WFAAAAAA

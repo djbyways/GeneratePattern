@@ -1,0 +1,7 @@
+; MieScatteringCoefficients.def : Declares the module parameters for the DLL.
+
+LIBRARY      "MieScatteringCoefficients"
+
+EXPORTS
+    mexFunction
+    
